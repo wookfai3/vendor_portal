@@ -1,5 +1,9 @@
-# Table of contents
+# Summary
 
-* [Introduction](README.md)
-* [Page 1](page-1.md)
-* [Sapura Energy Vendor Portal User Guide](sapura-energy-vendor-portal-user-guide.md)
+* [Getting Started](getting-started.md)
+* [Registration](registration.md)
+* [Login](login.md)
+* [Company Profile](company-profile.md)
+* [View Summary](view-summary.md)
+* [Tender Invitations](tender-invitations.md)
+* [Statement of Account](statement-of-account.md)
