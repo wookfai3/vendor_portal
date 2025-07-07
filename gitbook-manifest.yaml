@@ -1,0 +1,22 @@
+name: usermanual
+title: User Manual
+script: src/index.tsx
+description: GitBook integration for syncing user manual documentation
+scopes:
+  - space:content:read
+  - space:content:write
+  - space:metadata:read
+  - space:metadata:write
+  - space:views:read
+  - space:git:sync
+  - site:metadata:read
+  - site:adaptive:read
+  - site:adaptive:write
+blocks:
+  - id: usermanual
+    title: User Manual
+    description: My GitBook Integration for user manual
+organization: usermanual # Replace with your actual organization ID if different
+visibility: private
+secrets: {}
+content: . # Points to .md files in the current directory
