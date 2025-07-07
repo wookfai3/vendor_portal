@@ -1,11 +1,11 @@
 # Login
 
-This section will guide you on how to login to the SEB Vendor Portal.
+This section will guide you on how to login to the Perkeso Vendor Portal.
 
-### 2.0 Login to SEB Vendor Portal
+### 2.0 Login to Perkeso Vendor Portal
 
-1. Go to the [Sapura Energy Vendor Portal](https://vendors.sapuraenergy.com).
-2. On the "Sapura Energy Vendor Portal" screen, enter your username and password, then click "Login".
+1. Go to the [Perkeso Vendor Portal](https://vendors.sapuraenergy.com).
+2. On the "Perkeso Vendor Portal" screen, enter your username and password, then click "Login".
    * **Note:** The "Forgot your account password?" option is only for emails registered in SEB. If you cannot remember the registered email, contact the SEB vendor manager.
 
 ![login-1.png](images/login-1.png)

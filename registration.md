@@ -4,11 +4,11 @@ This section guides you through the registration process.
 
 ### 1.0 Registration using Login ID and Password
 
-1. Navigate to the [Sapura Energy Vendor Portal](https://vendors.sapuraenergy.com).
+1. Navigate to the [Perkeso Vendor Portal](https://vendors.sapuraenergy.com).
 
 ![registration-1.png](images/registration-1.png)
 
-2. On the "Sapura Energy Vendor Portal" screen, click "New? Click here to sign up" to access the sign-up screen.
+2. On the "Perkeso Vendor Portal" screen, click "New? Click here to sign up" to access the sign-up screen.
 
 ![registration-2.png](images/registration-2.png)
 
