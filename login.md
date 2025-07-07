@@ -7,8 +7,16 @@ This section will guide you on how to login to the SEB Vendor Portal.
 1. Go to the [Sapura Energy Vendor Portal](https://vendors.sapuraenergy.com).
 2. On the "Sapura Energy Vendor Portal" screen, enter your username and password, then click "Login".
    * **Note:** The "Forgot your account password?" option is only for emails registered in SEB. If you cannot remember the registered email, contact the SEB vendor manager.
+
+![login-1.png](images/login-1.png)
+
 3. For the first-time login, you are required to accept SEB's Code of Conduct before proceeding with vendor registration.
+
+![login-2.png](images/login-2.png)
+
 4. Scroll down the page to read the terms and click "Accept" to agree. If you reject the terms, you cannot proceed.
+
+![login-3.png](images/login-3.png)
 
 #### Breach of Code of Conduct
 
