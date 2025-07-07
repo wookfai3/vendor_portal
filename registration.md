@@ -4,7 +4,7 @@ This section guides you through the registration process.
 
 ### 1.0 Registration using Login ID and Password
 
-1. Navigate to the [Perkeso Vendor Portal](https://vendors.sapuraenergy.com).
+1. Navigate to the [Perkeso Vendor Portal](https://vendors.metqm.com/eCP_perkeso/).
 
 ![registration-1.png](images/registration-1.png)
 

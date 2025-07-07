@@ -4,13 +4,13 @@ This section will guide you on how to login to the Perkeso Vendor Portal.
 
 ### 2.0 Login to Perkeso Vendor Portal
 
-1. Go to the [Perkeso Vendor Portal](https://vendors.sapuraenergy.com).
+1. Go to the [Perkeso Vendor Portal](https://vendors.metqm.com/eCP_perkeso/).
 2. On the "Perkeso Vendor Portal" screen, enter your username and password, then click "Login".
-   * **Note:** The "Forgot your account password?" option is only for emails registered in SEB. If you cannot remember the registered email, contact the SEB vendor manager.
+   * **Note:** The "Forgot your account password?" option is only for emails registered in Perkeso. If you cannot remember the registered email, contact the Perkeso vendor manager.
 
 ![login-1.png](images/login-1.png)
 
-3. For the first-time login, you are required to accept SEB's Code of Conduct before proceeding with vendor registration.
+3. For the first-time login, you are required to accept Perkeso's Code of Conduct before proceeding with vendor registration.
 
 ![login-2.png](images/login-2.png)
 
