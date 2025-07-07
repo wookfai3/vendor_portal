@@ -1,6 +1,6 @@
-### 4. Financial
+### 1. Financial
 
-28. Go to section '[4] Financial'. In the 'Capital Structure' area, enter the following:
+1. In the 'Capital Structure' area, enter the following:
 
 ![company-profile-24.png](images/company-profile-24.png)
 
@@ -15,12 +15,12 @@
 | Long Term Asset           | Long Term Asset                   | R                                             |
 | Long Term Liabilities     | Long Term Liabilities             | R                                             |
 
-29. Enter previous years’ profit/loss information (mandatory for the last 3 years).
+2. Enter previous years’ profit/loss information (mandatory for the last 3 years).
     * **Note:** Loss values should be entered with a negative symbol (e.g., -1000).
 
 ![company-profile-25.png](images/company-profile-25.png)
 
-30. In the 'Account Details' area, enter the following:
+3. In the 'Account Details' area, enter the following:
 
 ![company-profile-26.png](images/company-profile-26.png)
 

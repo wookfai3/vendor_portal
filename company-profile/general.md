@@ -1,15 +1,15 @@
-### 1. General
+### General
 
-5. At the left menu bar, click the appropriate icon (often represented by a key or profile icon) to set your permanent password.
+1. At the left menu bar, click the profile icon to set your permanent password.
    * **For NEW vendors:** Change the username to your Company ROC Number (e.g., 12345-F) and click "Update" to update credential information.
 
 ![company-profile-1.png](images/company-profile-1.png)
 
-6. At the left menu bar, click the first icon to complete registration as an SEB vendor.
+2. At the left menu bar, click the first icon to complete registration as an SEB vendor.
 
 ![company-profile-2.png](images/company-profile-2.png)
 
-7. A 'Company Profile' screen will display. In the '[1] General' section, enter the following company details:
+3. A 'Company Profile' screen will display. In the 'General' section, enter the following company details:
 
 ![company-profile-3.png](images/company-profile-3.png)
 
@@ -27,15 +27,15 @@
 | Country                 | Select country from the list          | R                                             |
 | State                   | State                                 | R                                             |
 
-8. At the 'Business Address' area, select "Yes" if your company is Malaysian-based, or "No" otherwise.
+4. At the 'Business Address' area, select "Yes" if your company is Malaysian-based, or "No" otherwise.
 
 ![company-profile-4.png](images/company-profile-4.png)
 
-9. Click the checkbox "Same as registered address" to copy the Registered Address to the Business Address.
+5. Click the checkbox "Same as registered address" to copy the Registered Address to the Business Address.
 
 ![company-profile-5.png](images/company-profile-5.png)
 
-10. Scroll down to the 'Contact Person' area and enter the following details:
+6. Scroll down to the 'Contact Person' area and enter the following details:
 
 ![company-profile-6.png](images/company-profile-6.png)
 

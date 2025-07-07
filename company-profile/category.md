@@ -1,26 +1,26 @@
-### 3. Category
+### 1. Category
 
-20. Go to section '[3] Category' and complete the information related to your Petronas License: status (Petronas License holder), Petronas License Number, and the License Validity Period (From/To).
+1. Complete the information related to your Petronas License: status (Petronas License holder), Petronas License Number, and the License Validity Period (From/To).
     * **Note:** If your company is not a Petronas License Holder, leave "Petronas License No" and "Validity period" blank.
 
 ![company-profile-16.png](images/company-profile-16.png)
 
-21. In the 'Category' area, you must add the proper Product/Service Category for your company. Click "Select Product Category".
+2. In the 'Category' area, you must add the proper Product/Service Category for your company. Click "Select Product Category".
 
 ![company-profile-17.png](images/company-profile-17.png)
 
-22. A 'Select Product Category' window will appear. Select one Product Category from the list (e.g., M08 INSULATION), then click to select the specific product category.
+3. A 'Select Product Category' window will appear. Select one Product Category from the list (e.g., M08 INSULATION), then click to select the specific product category.
 
 ![company-profile-18.png](images/company-profile-18.png)
 
-23. The selected Product Category will populate in the list.
+4. The selected Product Category will populate in the list.
     * In the 'Status' column, choose "[Petronas License]" or "[Non Petronas License]" from the dropdown list.
     * In the 'Brand' column, if it is a Product Category, it is mandatory to key in the full name of the brand. Service Category does not require a brand name.
     * **Note:** Avoid using short forms for brand names.
 
 ![company-profile-19.png](images/company-profile-19.png)
 
-24. In the 'Action' column, click the "[Appointment letter]" icon. A window will prompt you to enter the Principal Details. Enter the following:
+5. In the 'Action' column, click the "Appointment letter" button. A window will prompt you to enter the Principal Details. Enter the following:
 
 ![company-profile-20.png](images/company-profile-20.png)
 
@@ -42,14 +42,14 @@
 | Appointment Letter attachment         | Letter of Appointment to be attached                          | R                                             |
 | Termination Letter attachment         | Letter of Termination to be attached (if change of principal) | R                                             |
 
-25. Close the window once the Principal Details are completed.
+6. Close the window once the Principal Details are completed.
 
 ![company-profile-21.png](images/company-profile-21.png)
 
-26. To add a service category, click the relevant button (similar to Product Category) and repeat steps 20-23.
+7. To add a service category, click the relevant button (similar to Product Category) and repeat steps 2-4.
 
 ![company-profile-22.png](images/company-profile-22.png)
 
-27. Enter other relevant product category information in the provided text boxes. If the information is not available, key in "NA".
+8. Enter other relevant product category information in the provided text boxes. If the information is not available, key in "NA".
 
 ![company-profile-23.png](images/company-profile-23.png)
