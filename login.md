@@ -24,8 +24,8 @@ Vendors/suppliers who breach the Code of Conduct are subject to:
 
 * Immediate termination of contract
 * Penalties or any contractual/legal remedies under the law
-* Blacklisting by Sapura Energy, precluding them from bidding for any work for a specific period at the discretion of Sapura Energy Management.
+* Blacklisting by Perkeso, precluding them from bidding for any work for a specific period at the discretion of Perkeso Management.
 
 #### Agreement and Acceptance
 
-By accepting, you acknowledge and irrevocably agree to comply with the Code of Conduct and confirm that all terms and conditions are fully agreed upon. Breach of any part of the Code of Conduct may result in disqualification from bidding processes, contract termination/cancellation, and responsibility for all claims, losses, damages, and costs incurred by Sapura Energy Group.
+By accepting, you acknowledge and irrevocably agree to comply with the Code of Conduct and confirm that all terms and conditions are fully agreed upon. Breach of any part of the Code of Conduct may result in disqualification from bidding processes, contract termination/cancellation, and responsibility for all claims, losses, damages, and costs incurred by Perkeso Group.
