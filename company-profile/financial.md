@@ -1,8 +1,8 @@
-### 1. Financial
+# Financial
 
 1. In the 'Capital Structure' area, enter the following:
 
-![company-profile-24.png](images/company-profile-24.png)
+![company-profile-24.png](../.gitbook/assets/company-profile-24.png)
 
 | Field                     | Description                       | Required (R) / Optional (O) / Conditional (C) |
 | ------------------------- | --------------------------------- | --------------------------------------------- |
@@ -16,13 +16,13 @@
 | Long Term Liabilities     | Long Term Liabilities             | R                                             |
 
 2. Enter previous years’ profit/loss information (mandatory for the last 3 years).
-    * **Note:** Loss values should be entered with a negative symbol (e.g., -1000).
+   * **Note:** Loss values should be entered with a negative symbol (e.g., -1000).
 
-![company-profile-25.png](images/company-profile-25.png)
+![company-profile-25.png](../.gitbook/assets/company-profile-25.png)
 
 3. In the 'Account Details' area, enter the following:
 
-![company-profile-26.png](images/company-profile-26.png)
+![company-profile-26.png](../.gitbook/assets/company-profile-26.png)
 
 | Field      | Description                                                   | Required (R) / Optional (O) / Conditional (C) |
 | ---------- | ------------------------------------------------------------- | --------------------------------------------- |

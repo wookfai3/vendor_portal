@@ -10,7 +10,7 @@ This section guides you through the registration process.
 
 2. On the "Perkeso Vendor Portal" screen, click "New? Click here to sign up" to access the sign-up screen.
 
-![registration-2.png](images/registration-2.png)
+![registration-2.png](.gitbook/assets/signin.png)
 
 3. Enter all mandatory fields:
    * **Company Registration No:** Company registration number
@@ -19,12 +19,12 @@ This section guides you through the registration process.
    * **Phone Number:** Company Phone Number
    * **Email:** Company/Contact person's email to register as SEB vendor
 
-![registration-3.png](images/registration-3.png)
+![registration-3.png](.gitbook/assets/registration-3.png)
 
 4. Click "Sign Up" to register.
 
-![registration-4.png](images/registration-4.png)
+![registration-4.png](.gitbook/assets/registration-4.png)
 
 5. Log in to your email account to retrieve the temporary password. A verification email will be sent to your registered email.
 
-![registration-5.png](images/registration-5.png)
+![registration-5.png](.gitbook/assets/registration-5.png)

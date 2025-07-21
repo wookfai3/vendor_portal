@@ -1,4 +1,6 @@
-### General
+# General
+
+
 
 1. At the left menu bar, click the profile icon to set your permanent password.
    * **For NEW vendors:** Change the username to your Company ROC Number (e.g., 12345-F) and click "Update" to update credential information.
@@ -7,11 +9,11 @@
 
 2. At the left menu bar, click the first icon to complete registration as an SEB vendor.
 
-![company-profile-2.png](images/company-profile-2.png)
+![company-profile-2.png](../.gitbook/assets/company-profile-2.png)
 
 3. A 'Company Profile' screen will display. In the 'General' section, enter the following company details:
 
-![company-profile-3.png](images/company-profile-3.png)
+![company-profile-3.png](../.gitbook/assets/company-profile-3.png)
 
 | Field                   | Description                           | Required (R) / Optional (O) / Conditional (C) |
 | ----------------------- | ------------------------------------- | --------------------------------------------- |
@@ -29,15 +31,15 @@
 
 4. At the 'Business Address' area, select "Yes" if your company is Malaysian-based, or "No" otherwise.
 
-![company-profile-4.png](images/company-profile-4.png)
+![company-profile-4.png](../.gitbook/assets/company-profile-4.png)
 
 5. Click the checkbox "Same as registered address" to copy the Registered Address to the Business Address.
 
-![company-profile-5.png](images/company-profile-5.png)
+![company-profile-5.png](../.gitbook/assets/company-profile-5.png)
 
 6. Scroll down to the 'Contact Person' area and enter the following details:
 
-![company-profile-6.png](images/company-profile-6.png)
+![company-profile-6.png](../.gitbook/assets/company-profile-6.png)
 
 | Field                             | Description                   | Required (R) / Optional (O) / Conditional (C) |
 | --------------------------------- | ----------------------------- | --------------------------------------------- |
